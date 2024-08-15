@@ -1,3 +1,3 @@
-hi there 
+Hi there 
 <br>
-hi there this is my first repository
+this is my first clone (amazon)
