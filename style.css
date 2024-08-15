@@ -5,7 +5,7 @@
 }
 
 .navbar {
-  height: 60px;
+  height: 4rem;
   background-color: #0f1111;
   color: white;
   display: flex;
@@ -14,14 +14,14 @@
 }
 
 .nav-logo {
-  height: 50px;
-  width: 130px;
+  height: 4rem;
+  width: 7rem;
 }
 
 .logo {
   background-image: url("amazon_logo.png");
-  height: 57px;
-  width: 124px;
+  height: 4rem;
+  width: 8.2rem;
   background-size: cover;
   position: absolute;
   left: 16px; 
@@ -60,7 +60,7 @@
   display: flex;
   justify-content: space-evenly;
   background-color: pink;
-  width: 800px;
+  width: 50rem;
   height: 40px;
   border-radius: 4px;
 }
